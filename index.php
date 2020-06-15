@@ -6,6 +6,6 @@
     <title>Latihan Git/title>
 </head>
 <body>
-    
+    <h1>Latihan</h1>
 </body>
 </html>
